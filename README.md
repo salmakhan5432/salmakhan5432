@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**salmakhan5432/salmakhan5432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science learner  
+I believe in learning step by step, building strong foundations, and growing through consistency.
+- Learning Python for Data Science
+- Practicing data analysis with NumPy & Pandas
+- Understanding data cleaning and preprocessing
+- Exploring Machine Learning fundamentals
+- Building small practice projects to apply concepts
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- Python
+- NumPy
+- Pandas
+- Jupyter Notebook
+- Git & GitHub
+LinkedIn: *(https://www.linkedin.com/in/salma-khan-7a30a837a/)*
+ 
