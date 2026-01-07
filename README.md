@@ -14,5 +14,6 @@ I believe in learning step by step, building strong foundations, and growing thr
 - Pandas
 - Jupyter Notebook
 - Git & GitHub
+  
 LinkedIn: *(https://www.linkedin.com/in/salma-khan-7a30a837a/)*
  
