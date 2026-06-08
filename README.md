@@ -55,7 +55,7 @@ I'm an undergraduate Software Engineer passionate about building intelligent app
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| 🤖 AI/ML Intern | DeveloperHub | 2025 – 2026 |
+| 🤖 AI/ML Intern | DeveloperHub | Feb - Mar 2026 |
 
 > Completed a structured AI/ML internship delivering production-level machine learning projects — including a customer churn predictor and a stock price forecasting system — with a focus on end-to-end pipeline development, model evaluation, and deployment readiness.
 
@@ -85,27 +85,23 @@ I'm an undergraduate Software Engineer passionate about building intelligent app
 ## 🚀 Featured Projects
 
 ### 🔄 Customer Churn Prediction
-> `ML Pipeline` · `Scikit-Learn` · `Hyperparameter Tuning` · `80% Accuracy`
+`ML Pipeline` · `Scikit-Learn` · `Hyperparameter Tuning` · `80% Accuracy`
 
-A production-ready machine learning pipeline for predicting customer churn using the Telco dataset. Built end-to-end with thorough data preprocessing, feature engineering, hyperparameter optimization, and model export for deployment — demonstrating readiness for real-world business applications.
+Production-ready ML pipeline predicting customer churn on the Telco dataset with 80% accuracy.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/salmakhan5432/DeveloperHub-AI-ML-Internship/tree/main/Task-04-Customer-Churn-Predictor)
 
----
-
 ### 📈 Stock Price Prediction
-> `Time Series Analysis` · `Linear Regression` · `Yahoo Finance API` · `AAPL`
+`Time Series` · `Linear Regression` · `Yahoo Finance API` · `AAPL`
 
-A machine learning system that forecasts next-day stock prices using historical market data from the Yahoo Finance API. Features time series modeling, real-time prediction visualization, and a clean analytical workflow targeting Apple (AAPL) equity data.
+Next-day stock price forecasting system using historical market data with real-time prediction visualization.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/salmakhan5432/DeveloperHub-AI-ML-Internship/tree/main/Task-03-Stock-Price-Prediction)
 
----
-
 ### ❤️ Heart Disease Prediction System
-> `Machine Learning` · `Streamlit` · `Python` · `90%+ Accuracy`
+`Machine Learning` · `Streamlit` · `Python` · `90%+ Accuracy`
 
-A deployed, interactive web application achieving 90%+ accuracy in predicting cardiovascular disease risk. Leverages advanced classification algorithms trained on medical data and is deployed live via Streamlit — showcasing the full journey from model training to user-facing deployment.
+Live web app predicting cardiovascular disease risk with 90%+ accuracy, deployed on Streamlit.
 
 [![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://salmakhan5432-heart-disease-prediction-system-app-n5zfvk.streamlit.app/)
 
@@ -122,15 +118,6 @@ A deployed, interactive web application achieving 90%+ accuracy in predicting ca
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmakhan5432&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 **Deep Learning** — Neural network architectures with TensorFlow & Keras
-- ☁️ **Cloud Deployment** — Hosting and scaling ML models on cloud platforms
-- 🐳 **Containerization** — Packaging applications with Docker for reproducible environments
-- 📊 **Advanced Data Analytics** — Statistical modeling and feature engineering at scale
 
 ---
 
