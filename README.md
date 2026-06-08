@@ -107,20 +107,6 @@ Live web app predicting cardiovascular disease risk with 90%+ accuracy, deployed
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmakhan5432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmakhan5432&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmakhan5432&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
